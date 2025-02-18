@@ -5,16 +5,16 @@ date: 2022-04-16
 tags: meta exocore computers learning
 ---
 
-# Underpinnings of the Exocore
+# Test #2
 
 ## Digitally-Integrated Mind Palace
 - Navigability
   - Easy hyperlinking = frequent hyperlinking
 - Memorability
   - Hijacking and piggybacking on existing human mnemonic faculties
-    - [[Underpinnings of the Exocore#Chernoff Faces|Chernoff Faces]] 
-    - [[Underpinnings of the Exocore#Urbit Sigils|Urbit Sigils]] 
-    - [[Underpinnings of the Exocore#Urbit Names|Urbit Names]] 
+    - [[Test 2#Chernoff Faces|Chernoff Faces]] 
+    - [[Test 2#Urbit Sigils|Urbit Sigils]] 
+    - [[Test 2#Urbit Names|Urbit Names]] 
     - Spatial faculties — does an implementation exist?
   - Zettelkasten mnemonic badges
 
