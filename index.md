@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# The Exocore Package
+# Hello World
 
 [![](/images/exocore.png)](/articles/exocore%20installation%20instructions/)
 
