@@ -43,7 +43,7 @@ Check out the backlinks section at the bottom of any post, and you'll find a lis
 
 The below text is embedded, using the same wikilink syntax as normal, but with an `!` prepended. The full text of the linked note will be included. For example, here is an example of embedded note syntax:
 
-![[jade-post]]
+![[Jade post]]
 
 ## External Hyperlinks
 
@@ -105,7 +105,7 @@ For more options, check out the 'advanced tables' plugin in the sidebar. This pl
 
 ## Graphviz
 
-For more complex data representation, [Graphviz](https://graphviz.org/) can be used in conjunction with the Exocore. Read more about Graphviz syntax [here](https://graphviz.org/documentation/), and find a demonstration of the way it is used with the Exocore [[exocore-workflow|here]].
+For more complex data representation, [Graphviz](https://graphviz.org/) can be used in conjunction with the Exocore. Read more about Graphviz syntax [here](https://graphviz.org/documentation/), and find a demonstration of the way it is used with the Exocore [[The Exocore Workflow|here]].
 
 
 ## Sidenotes and Footnotes:

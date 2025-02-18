@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-02-18.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-02-18"
+              "title": "readme"
             }
           }
         ],
@@ -203,6 +203,12 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/2022-05-11.md",
+    "_journal/The Exocore Workflow.md",
+    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_journal/Jade post.md",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_daily/2025-02-18.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
@@ -212,7 +218,6 @@
     "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
     "_articles/Configure Exocore for Personal Use.md",
-    "_daily/2022-10-23.md",
-    "_daily/2022-05-11.md"
+    "_daily/2022-10-23.md"
   ]
 }
