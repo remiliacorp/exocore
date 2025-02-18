@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-02-18.md",
+                "file": "_articles/Test 3.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-02-18"
+              "title": "Test 3"
             }
           }
         ],
@@ -198,13 +198,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_daily/2022-05-11.md",
     "_daily/2025-02-18.md",
+    "_daily/2022-05-11.md",
     "_articles/Test 2.md",
     "_articles/table test.md",
     "ring.md",

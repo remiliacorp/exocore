@@ -7,7 +7,7 @@ tags: meta computers exocore
 ---
 # Using your Exocore
 
-Now that you've [[Exocore Installation Instructions|installed your exocore]] this guide will walk you through navigating it in practice. Read a more detailed explanation of the Exocore's present and future functionality [[Exocore Executive Summary|here.]]
+Now that you've [[Exocore Installation Instructions|installed your exocore]] this guide will walk you through navigating it in practice. Read a more detailed explanation of the Exocore's present and future functionality [[Test 3|here.]]
 
 ## Launch your Exocore
 

@@ -29,7 +29,7 @@ Here's some advice: Only use top-level headings (preceded by `#`) for the docume
 
 ## Examples of Wikilinks:
 
-Here is a basic wikilink, pointing to other posts on this Exocore: `[[Exocore Executive Summary]]` It renders like this: [[Exocore Executive Summary]].
+Here is a basic wikilink, pointing to other posts on this Exocore: `[[Exocore Executive Summary]]` It renders like this: [[Test 3]].
 
 It is written as the title of their corresponding markdown file, surrounded by double square brackets. However, in the final render they are presented by default as the page's title. This saves you typing out the whole page title in your markdown document, and allows the Foam VSCode extension to suggest files as you type. Below you can read about how to change their presentation.
 

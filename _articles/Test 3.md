@@ -5,7 +5,7 @@ date: 2021-01-27
 tags: exocore remilia computers web
 ---
 
-# The Exocore Package
+# Test #3
 
 [![](/images/exocore.png)](/articles/installation-instructions/)
 
