@@ -6,9 +6,9 @@ date: 2022-09-26
 tags: 
 ---
 
-# Configure Exocore for Personal Use
+# Changing some test data
 
-## Change your Username and Homepage
+## Change your Username and Homepage ( test 2 )
 Navigate to `/exocore/data/user.yml`. Open the file in any text-editor (e.g. Notepad or TextEdit) and look for `user_name: Remilia Corporation`. Change this to whatever name you want to appear on the left sidebar.
 
 ## Change your Homepage Content

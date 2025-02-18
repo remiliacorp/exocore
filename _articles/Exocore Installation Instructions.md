@@ -151,7 +151,7 @@ Remember that you still control what is actually publicly published on the publi
 2. Navigate to ```/_config.yml``` to change the Title and URL of your exocore.
 3. Change the profile picture in the sidebar by replacing `assets/img/pfp.png` with a square profile picture of your choice.
 
-Each step explained in more detail with more personailzation options including changing themes at [[Configure Exocore for Personal Use]].
+Each step explained in more detail with more personailzation options including changing themes at [[Changing some test data]].
 
 ## Optional: Setup Mobile Editing
 

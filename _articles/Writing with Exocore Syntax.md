@@ -49,7 +49,7 @@ The below text is embedded, using the same wikilink syntax as normal, but with a
 
 Hyperlinks to external sites are not the same as wikilinks. A wikilink is a simple way to hyperlink to other posts on your Exocore without using the full processed URL as it is rendered online. A wikilink works locally in VSCode, allowing you to navigate between posts, and is transformed at render time to a web hyperlink, so that it always points to the correct page.
 
-![[Configure Exocore for Personal Use]]
+![[Changing some test data]]
 
 To create a hyperlink, use single normal parentheses around the URL you want to point to, and square brackets around the text you want displayed:
 

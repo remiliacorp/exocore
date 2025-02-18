@@ -21,14 +21,10 @@
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "readme"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -178,8 +174,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -187,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +198,8 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_articles/Changing some test data.md",
+    "readme.md",
     "_daily/2022-05-11.md",
     "_journal/The Exocore Workflow.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
@@ -217,7 +214,6 @@
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
-    "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-23.md"
   ]
 }
