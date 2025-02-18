@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ring.md",
+                "file": "_daily/2025-02-18.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ring"
+              "title": "2025-02-18"
             }
           }
         ],
@@ -202,6 +202,7 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "ring.md",
     "readme.md",
     "index.md",
     "_articles/Changing some test data.md",
