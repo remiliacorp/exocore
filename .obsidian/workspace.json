@@ -193,10 +193,11 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "exocore/_layouts/essay.html",
+    "pages/essays.html",
     "pages/essay.html",
     "_essays/Essay 1.md",
     "_essays/damn.md",
-    "pages/essays.html",
     "exocore/_layouts/essays.html",
     "_essays/Lets try this again.md",
     "_site/pages/essay.html",
