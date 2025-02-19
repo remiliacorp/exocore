@@ -11,9 +11,9 @@ type:
     <div class="leftcolumn">
       {% include profile-card.html %}
     </div>
-    {% assign items = site.essay | sort: 'date' | reverse %}
-    {% assign posts_displayed = site.essay.size | at_most: 10 %}
-    {% assign posts_total  = site.essay.size %}
+    {% assign items = site.essays | sort: 'date' | reverse %}
+    {% assign posts_displayed = site.essays.size | at_most: 10 %}
+    {% assign posts_total  = site.essays.size %}
 
     <div class="midcolumn">
       <article>
