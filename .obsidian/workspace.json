@@ -11,14 +11,10 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test 2 xxx.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test 2 xxx"
+              "title": "New tab"
             }
           }
         ]
@@ -193,6 +189,8 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "test 2 xxx.md",
+    "_essays/test 2 xxx.md",
     "_essays/Test 3.md",
     "_essays/Writing with Exocore Syntax.md",
     "_essays/Using your Exocore.md",
@@ -202,7 +200,6 @@
     "_essays/Exocore Installation Instructions.md",
     "_essays/Changing some test data.md",
     "_essays",
-    "test 2 xxx.md",
     "_daily/2025-02-19.md",
     "_daily/Test Essay.md",
     "_articles/Test 3.md",
@@ -219,7 +216,6 @@
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_journal/Jade post.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
-    "_daily/2022-10-29.md",
     "assets/imgs/bg-yotsuba.gif"
   ]
 }
