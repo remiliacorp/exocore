@@ -11,28 +11,17 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3aa1ea3782e80e19",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-02-19.md",
+                "file": "test 2 xxx.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-02-19"
+              "title": "test 2 xxx"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,10 +191,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "_articles/Test 3.md",
+    "_essays/Test 3.md",
+    "_essays/Writing with Exocore Syntax.md",
+    "_essays/Using your Exocore.md",
+    "_essays/table test.md",
+    "_essays/Test 2.md",
+    "_essays/Set up a Custom Domain.md",
+    "_essays/Exocore Installation Instructions.md",
+    "_essays/Changing some test data.md",
+    "_essays",
+    "test 2 xxx.md",
     "_daily/2025-02-19.md",
+    "_daily/Test Essay.md",
+    "_articles/Test 3.md",
     "_daily/2025-02-18.md",
     "_daily/2022-05-11.md",
     "_articles/Test 2.md",
@@ -220,11 +220,6 @@
     "_journal/Jade post.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_daily/2022-10-29.md",
-    "_daily/2022-10-27.md",
-    "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif",
-    "_daily/2022-10-23.md"
+    "assets/imgs/bg-yotsuba.gif"
   ]
 }

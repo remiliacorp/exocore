@@ -12,9 +12,9 @@ tags: meta exocore computers learning
   - Easy hyperlinking = frequent hyperlinking
 - Memorability
   - Hijacking and piggybacking on existing human mnemonic faculties
-    - [[Test 2#Chernoff Faces|Chernoff Faces]] 
-    - [[Test 2#Urbit Sigils|Urbit Sigils]] 
-    - [[Test 2#Urbit Names|Urbit Names]] 
+    - [[_articles/Test 2#Chernoff Faces|Chernoff Faces]] 
+    - [[_articles/Test 2#Urbit Sigils|Urbit Sigils]] 
+    - [[_articles/Test 2#Urbit Names|Urbit Names]] 
     - Spatial faculties — does an implementation exist?
   - Zettelkasten mnemonic badges
 
