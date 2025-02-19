@@ -11,10 +11,14 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_essays/Essay 1.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Essay 1"
             }
           }
         ]
@@ -189,6 +193,7 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_essays/Essay 1.md",
     "_essays/damn.md",
     "pages/essays.html",
     "exocore/_layouts/essays.html",
