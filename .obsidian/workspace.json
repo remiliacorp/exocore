@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal Test.md",
+                "file": "_essays/essay test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Journal Test"
+              "title": "essay test"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_essays/Untitled.md",
+    "_essays/essay test.md",
     "Journal Test.md",
     "test 2 xxx.md",
     "_essays/test 2 xxx.md",
@@ -218,8 +220,6 @@
     "_articles/Changing some test data.md",
     "_journal/The Exocore Workflow.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
-    "_journal/Jade post.md",
     "assets/imgs/bg-yotsuba.gif"
   ]
 }
