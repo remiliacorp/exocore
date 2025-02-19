@@ -11,10 +11,14 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_essays/damn.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "damn"
             }
           }
         ]
@@ -189,15 +193,15 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_essays/damn.md",
+    "_essays/Lets try this again.md",
     "_site/pages/essay.html",
     "pages/essay.html",
     "pages/all-essays.html",
     "_site/essays/Lets try this again.md",
-    "_essays/Lets try this again.md",
     "_essays/essay test.md",
     "_site/pages/all-essays.html",
     "_site/pages/essays.html",
-    "_essays/Untitled.md",
     "Journal Test.md",
     "test 2 xxx.md",
     "_essays/test 2 xxx.md",
