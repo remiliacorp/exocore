@@ -168,7 +168,7 @@ plugins:
 - jekyll-default-layout
 - jekyll-titles-from-headings
 - jekyll-relative-links
-- jekyll-github-metadata
+# - jekyll-github-metadata
 - jekyll-seo-tag
 - html-proofer
 - rubocop
