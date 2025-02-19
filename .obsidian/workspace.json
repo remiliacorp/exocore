@@ -11,14 +11,10 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_essays/essay test.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "essay test"
+              "title": "New tab"
             }
           }
         ]
@@ -193,10 +189,10 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_essays/essay test.md",
     "_site/pages/all-essays.html",
     "_site/pages/essays.html",
     "_essays/Untitled.md",
-    "_essays/essay test.md",
     "Journal Test.md",
     "test 2 xxx.md",
     "_essays/test 2 xxx.md",
