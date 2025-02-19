@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Test 3.md",
+                "file": "_daily/2025-02-19.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Test 3"
+              "title": "2025-02-19"
             }
           }
         ],
@@ -202,8 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "_articles/Test 3.md",
+    "_daily/2025-02-19.md",
     "_daily/2025-02-18.md",
     "_daily/2022-05-11.md",
     "_articles/Test 2.md",
