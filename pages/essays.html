@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Articles
+title: Essays
 date:
 type:
 
@@ -11,15 +11,15 @@ type:
     <div class="leftcolumn">
       {% include profile-card.html %}
     </div>
-    {% assign items = site.articles | sort: 'date' | reverse %}
-    {% assign posts_displayed = site.articles.size | at_most: 10 %}
-    {% assign posts_total  = site.articles.size %}
+    {% assign items = site.essays | sort: 'date' | reverse %}
+    {% assign posts_displayed = site.essays.size | at_most: 10 %}
+    {% assign posts_total  = site.essays.size %}
 
     <div class="midcolumn">
       <article>
-        <h1 class="title-text">Latest Articles</h1>
-        <p style=" width: 100%; text-align: center">Showing latest {{ posts_displayed }} of {{ posts_total }} articles</p>
-        <p style=" width: 100%; text-align: center"><a href="/pages/all-articles/">View Index</a></p>
+        <h1 class="title-text">Latest Essays</h1>
+        <p style=" width: 100%; text-align: center">Showing latest {{ posts_displayed }} of {{ posts_total }} essayss</p>
+        <p style=" width: 100%; text-align: center"><a href="/pages/all-essays/">View Index</a></p>
       </article>
 <br>
       {% for item in items %}	

@@ -26,7 +26,7 @@ tags: recipe nutrition food
 - Serve Hens whole in a bowl and pour over broth
 - Sprinkle spring onions and pepper  
   
-  Compare with [[chinese-ginseng-chicken-tonic-soup]]
+  Compare with [[Ginseng Chicken Tonic Soup (Chinese Style)]]
 
 ![](/images/korean-chicken-soup.jpg){:.glow}
 

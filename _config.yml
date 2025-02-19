@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
+title: Dakota Direct
 description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
-repository: remiliacorp/exocore
+url: https://dakotadirect.netlify.app/
+repository: dakotanahm/newnew
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
@@ -74,9 +74,9 @@ defaults:
       image: /assets/imgs/card.png
   - scope:
       path: ""
-      type: "articles"
+      type: "essays"
     values: 
-      layout: "article"
+      layout: "essay"
   - scope:
       path: ""
       type: "journal"
@@ -109,7 +109,7 @@ collections:
     output: true
     permalink: /:collection/:slug
 
-  articles:
+  essay:
     output: true
     permalink: /:collection/:slug
 
