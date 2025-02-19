@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Article Index
+title: essay Index
 date:
 type:
 
@@ -16,10 +16,10 @@ type:
 
   <div class="midcolumn">
   <div class="index-card">
-    <p style="float: right">Showing {{ site.articles.size }} items</p>
-    <h1 class="index-title">Index of Articles (By most recent)</h1>
+    <p style="float: right">Showing {{ site.essays.size }} items</p>
+    <h1 class="index-title">Index of essays (By most recent)</h1>
   <div class="index-grid">
-  {% assign topic_sort = site.articles | sort: 'topic'%}
+  {% assign topic_sort = site.essays | sort: 'topic'%}
   {% for item in topic_sort %}	
     <a class="index-anchor" href="{{ item.url }}">
       <div class="index-item">

@@ -2,17 +2,17 @@
     <div class="sidebar-card related">
       <h1> Related</h1> 
       <div class="sidebar-link-box">
-<h2><a class="silent-link" href="/pages/all-articles">Articles</a></h2>
+<h2><a class="silent-link" href="/pages/all-essays">essays</a></h2>
 {% assign maxRelated = 5 %}
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}   
 <ul>
-{% for article in site.articles %}
+{% for essay in site.essays %}
     	{% assign sameTagCount = 0 %}
         {% assign commonTags = '' %}
     
-		{% for tag in article.tags %}
-        	{% if article.url != page.url %}
+		{% for tag in essay.tags %}
+        	{% if essay.url != page.url %}
             	{% if page.tags contains tag %}
             	{% assign sameTagCount = sameTagCount | plus: 1 %}
             	{% endif %}
@@ -20,7 +20,7 @@
 		{% endfor %}
     
         {% if sameTagCount >= minCommonTags %}
-		<li><a href="{{ site.baseurl }}{{ article.url }}">{{ article.title | truncate: 60 }}</a></li>
+		<li><a href="{{ site.baseurl }}{{ essay.url }}">{{ essay.title | truncate: 60 }}</a></li>
             {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
             
             {% if maxRelatedCounter >= maxRelated %}
@@ -30,9 +30,9 @@
 	{% endfor %}
 
 	{% if maxRelatedCounter == 0 %}
-	{% assign topic_sort = site.articles | sort: 'date' | reverse %}
-	{% for article in topic_sort | limit: 5 %}
-	<li><a href="{{ site.baseurl }}{{ article.url }}">{{ article.title | truncate: 60 }}</a></li>
+	{% assign topic_sort = site.essays | sort: 'date' | reverse %}
+	{% for essay in topic_sort | limit: 5 %}
+	<li><a href="{{ site.baseurl }}{{ essay.url }}">{{ essay.title | truncate: 60 }}</a></li>
 	{% endfor %}
 		{% endif %}
 	</ul>

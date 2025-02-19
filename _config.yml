@@ -74,9 +74,9 @@ defaults:
       image: /assets/imgs/card.png
   - scope:
       path: ""
-      type: "articles"
+      type: "essays"
     values: 
-      layout: "article"
+      layout: "essay"
   - scope:
       path: ""
       type: "journal"
