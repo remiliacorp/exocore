@@ -11,14 +11,10 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_site/essays/Lets try this again.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lets try this again"
+              "title": "New tab"
             }
           }
         ]
@@ -194,6 +190,7 @@
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
     "_site/essays/Lets try this again.md",
+    "_essays/Lets try this again.md",
     "_essays/essay test.md",
     "_site/pages/all-essays.html",
     "_site/pages/essays.html",
@@ -221,7 +218,6 @@
     "readme.md",
     "index.md",
     "_articles/Changing some test data.md",
-    "_journal/The Exocore Workflow.md",
     "assets/imgs/bg-yotsuba.gif"
   ]
 }
