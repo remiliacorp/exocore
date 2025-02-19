@@ -19,7 +19,7 @@ type:
     <p style="float: right">Showing {{ site.essays.size }} items</p>
     <h1 class="index-title">Index of Essays (By most recent)</h1>
   <div class="index-grid">
-  {% assign topic_sort = site.essays | sort: 'topic'%}
+  {% assign topic_sort = site.Essays | sort: 'topic'%}
   {% for item in topic_sort %}	
     <a class="index-anchor" href="{{ item.url }}">
       <div class="index-item">
