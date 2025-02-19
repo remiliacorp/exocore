@@ -30,7 +30,7 @@
 	{% endfor %}
 
 	{% if maxRelatedCounter == 0 %}
-	{% assign topic_sort = site.essays | sort: 'date' | reverse %}
+	{% assign topic_sort = site.essay | sort: 'date' | reverse %}
 	{% for essay in topic_sort | limit: 5 %}
 	<li><a href="{{ site.baseurl }}{{ essay.url }}">{{ essay.title | truncate: 60 }}</a></li>
 	{% endfor %}
