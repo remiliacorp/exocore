@@ -74,7 +74,7 @@ defaults:
       image: /assets/imgs/card.png
   - scope:
       path: ""
-      type: "essays"
+      type: "essay"
     values: 
       layout: "essay"
   - scope:

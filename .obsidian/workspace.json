@@ -11,10 +11,14 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal Test.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Journal Test"
             }
           }
         ]
@@ -189,6 +193,7 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "Journal Test.md",
     "test 2 xxx.md",
     "_essays/test 2 xxx.md",
     "_essays/Test 3.md",
@@ -215,7 +220,6 @@
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_journal/Jade post.md",
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "assets/imgs/bg-yotsuba.gif"
   ]
 }
