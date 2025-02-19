@@ -1,7 +1,7 @@
 ---
 layout: page
-category: archive
-title: Archive
+category: essay
+title: Essay
 subtitle:
 date: 
 tags: 
@@ -15,14 +15,14 @@ tags:
     <div class="archive-grid">
       
       <div class="index-card">
-        <h2 class="post-title">Articles</h2>
-        {% assign topic_sort = site.articles | sort: 'topic'%}
-        {% for article in topic_sort %}	
-          <a class="index-anchor" href="{{ article.url }}">
-            <div class="archive-item">
-             <span class="index-item-title">{{ article.title }}</span>
+        <h2 class="post-title">Essays</h2>
+        {% assign topic_sort = site.essay | sort: 'topic'%}
+        {% for essay in topic_sort %}	
+          <a class="index-anchor" href="{{ essay.url }}">
+            <div class="essay-item">
+             <span class="index-item-title">{{ essay.title }}</span>
              <br>
-             <span class="archive-item-date">{{ article.date | date: "%m/%d/%Y" }}</span>   
+             <span class="archive-item-date">{{ essay.date | date: "%m/%d/%Y" }}</span>   
             </div>
                 </a>
              {% endfor %}
