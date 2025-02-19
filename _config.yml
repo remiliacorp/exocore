@@ -4,8 +4,8 @@
 
 title: Dakota Direct
 description: A navigable, organised hypertext personal knowledge base
-url: https://luminous-paletas-c724da.netlify.app/
-repository: dakotanahm/exocore
+url: https://dakotadirect.netlify.app/
+repository: dakotanahm/newnew
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
@@ -109,7 +109,7 @@ collections:
     output: true
     permalink: /:collection/:slug
 
-  essays:
+  essay:
     output: true
     permalink: /:collection/:slug
 
