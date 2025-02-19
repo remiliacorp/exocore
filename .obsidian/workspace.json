@@ -11,14 +11,10 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_essays/damn.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "damn"
+              "title": "New tab"
             }
           }
         ]
@@ -194,6 +190,8 @@
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
     "_essays/damn.md",
+    "pages/essays.html",
+    "exocore/_layouts/essays.html",
     "_essays/Lets try this again.md",
     "_site/pages/essay.html",
     "pages/essay.html",
